@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5e116357468ed354cc5f1bff"},"name":"The Long Earth","genre":"Sci-Fi","authorId":"5e11619b468ed354cc5f1bfc","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e116358468ed354cc5f1c00"},"name":"The Color Of Magic","genre":"Fantasy","authorId":"5e11619b468ed354cc5f1bfc","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e116358468ed354cc5f1c01"},"name":"The Light Fantastic","genre":"Fantasy","authorId":"5e11619b468ed354cc5f1bfd","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e116358468ed354cc5f1c02"},"name":"The Final Empire","genre":"Fantasy","authorId":"5e11619b468ed354cc5f1bfd","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e116358468ed354cc5f1c03"},"name":"The Hero Of Ages","genre":"Sci-Fi","authorId":"5e11619b468ed354cc5f1bfd","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e116358468ed354cc5f1c04"},"name":"The Name Of The Wind","genre":"Fantasy","authorId":"5e11619b468ed354cc5f1bfe","__v":{"$numberInt":"0"}}

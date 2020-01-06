@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5e11619b468ed354cc5f1bfc"},"name":"Patrick Rothfuss","age":{"$numberInt":"44"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e11619b468ed354cc5f1bfd"},"name":"Brandon Sanderson","age":{"$numberInt":"42"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e11619b468ed354cc5f1bfe"},"name":"Terry Pratchett","age":{"$numberInt":"66"},"__v":{"$numberInt":"0"}}
